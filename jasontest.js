@@ -19,7 +19,7 @@ const jsonarraystr = JSON.stringify(studentarray);
 console.log('json object array to string' , jsonarraystr);
 
 
-const students = file.readFileSync('student.json');
+const students = file.readFileSync('studentt.json');
 const jsonsyring = JSON.parse(jsonstr);
 
 
